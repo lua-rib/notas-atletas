@@ -47,4 +47,3 @@ atletas.forEach(function(item) {
 
 
 
-
